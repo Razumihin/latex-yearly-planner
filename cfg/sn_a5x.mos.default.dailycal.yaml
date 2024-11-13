@@ -1,5 +1,5 @@
 calafterschedule: false
-addlasthalfhour: true
+addlasthalfhour: false
 
 layout:
   numbers:
