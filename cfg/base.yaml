@@ -28,10 +28,10 @@ layout:
     dailypersonal: 6
     dailybottomhour: 7
     dailytophour: 23
-    dailydiarygoals: 10
+    dailydiarygoals: 6
     dailydiarygrateful: 4
-    dailydiarybest: 4
-    dailydiarylog: 24
+    dailydiarybest: 8
+    dailydiarylog: 12
     todolinesintodopage: 10
     notesindexpages: 3
     notesonpage: 35

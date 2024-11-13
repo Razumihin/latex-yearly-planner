@@ -1,10 +1,14 @@
-\myUnderline{Things I'm grateful for}
+\myUnderline{Things that were good today}
 \myMash{\myNumDailyDiaryGrateful}{\myNumDotWidthFull}
 \medskip
 
-\myUnderline{The best thing that happened today}
-\myMash{\myNumDailyDiaryBest}{\myNumDotWidthFull}
+\myUnderline{Did I do good today?}
+\myMash{\myNumDailyDiaryLog}{\myNumDotWidthFull}
 \medskip
 
-\myUnderline{Daily log}
-\myMash{\myNumDailyDiaryLog}{\myNumDotWidthFull}
+\myUnderline{Things that I found interesting today}
+\myMash{\myNumDailyDiaryGoals}{\myNumDotWidthFull}
+\medskip
+
+\myUnderline{Reflections for tomorrow}
+\myMash{\myNumDailyDiaryBest}{\myNumDotWidthFull}
