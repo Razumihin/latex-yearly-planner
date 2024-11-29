@@ -21,8 +21,8 @@ layout:
 
   numbers:
     arraystretch: 1.5
-    quarterlylines: 36
-    weeklylines: 11
+    quarterlylines: 42
+    weeklylines: 12
     dailytodos: 8
     dailynotes: 25
     dailypersonal: 6
@@ -30,7 +30,7 @@ layout:
     dailytophour: 23
     dailydiarygoals: 6
     dailydiarygrateful: 4
-    dailydiarybest: 8
+    dailydiarybest: 9
     dailydiarylog: 12
     todolinesintodopage: 10
     notesindexpages: 3

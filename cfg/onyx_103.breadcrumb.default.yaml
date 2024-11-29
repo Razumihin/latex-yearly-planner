@@ -2,8 +2,8 @@ addlasthalfhour: false
 
 layout:
   paper:
-    width: 18.0cm
-    height: 24.0cm
+    width: 15.5cm
+    height: 20.6cm
     marginparwidth: .8cm
     marginparsep: .25cm
     reversemargins: true
@@ -12,16 +12,17 @@ layout:
       top: 1.0cm
 
   numbers:
-    weeklylines: 12
-    dailytodos: 12
-    dailynotes: 28
-    dotwidthtwothirds: 22
-    dotwidthfull: 34
-    notesonpage: 42
-    dotheightfull: 42
+    weeklylines: 10
+    quarterlylines: 40
+    dailytodos: 10
+    dailynotes: 23
+    dotwidthtwothirds: 20
+    dotwidthfull: 30
+    notesonpage: 35
+    dotheightfull: 36
 
   lengths:
     headersidequarterswidth: 4cm
-    headersidemonthswidth: 18cm
+    headersidemonthswidth: 15.5cm
     monthlyspring: \vskip.5mm
     dailyspring: \textcolor{white}{..}
